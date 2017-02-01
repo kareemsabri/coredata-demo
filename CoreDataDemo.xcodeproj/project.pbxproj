@@ -17,6 +17,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		93CAB0FA1E422BEF00203A2E /* Task+CoreDataClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Task+CoreDataClass.h"; sourceTree = "<group>"; };
+		93CAB0FB1E422BEF00203A2E /* Task+CoreDataClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Task+CoreDataClass.m"; sourceTree = "<group>"; };
+		93CAB0FC1E422BEF00203A2E /* Task+CoreDataProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Task+CoreDataProperties.h"; sourceTree = "<group>"; };
+		93CAB0FD1E422BEF00203A2E /* Task+CoreDataProperties.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Task+CoreDataProperties.m"; sourceTree = "<group>"; };
 		93EC17E81E4149850044FB6B /* CoreDataDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93EC17EC1E4149850044FB6B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		93EC17EE1E4149850044FB6B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -44,6 +48,10 @@
 		93EC17DF1E4149850044FB6B = {
 			isa = PBXGroup;
 			children = (
+				93CAB0FA1E422BEF00203A2E /* Task+CoreDataClass.h */,
+				93CAB0FB1E422BEF00203A2E /* Task+CoreDataClass.m */,
+				93CAB0FC1E422BEF00203A2E /* Task+CoreDataProperties.h */,
+				93CAB0FD1E422BEF00203A2E /* Task+CoreDataProperties.m */,
 				93EC17EA1E4149850044FB6B /* CoreDataDemo */,
 				93EC17E91E4149850044FB6B /* Products */,
 			);
@@ -314,6 +322,7 @@
 				93EC18041E4149850044FB6B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
